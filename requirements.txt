@@ -1,0 +1,12 @@
+cjktools
+cjktools-data
+commonvoice-utils
+epitran
+flask
+flask-cors
+jieba
+mutagen
+nagisa
+panphon
+pybktree
+thai-segmenter
